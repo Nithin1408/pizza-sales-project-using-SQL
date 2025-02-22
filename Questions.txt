@@ -1,0 +1,10 @@
+Extract total revenue generated.
+Calculate maximum prized pizza.
+Extract most common sized pizza ordered.
+Determine the revenue per pizza type.
+Extract top 3 best selling pizza types with their quantities.
+Determine the orders with the highest quantities of single pizza.
+Extract busiest hour of the day.
+Percentage caculation on each pizza type to total revenue.
+Extract cumulative revenue generated over time.
+Top 3 most ordered pizza types based on revenue for each pizza category.
