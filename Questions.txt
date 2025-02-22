@@ -8,3 +8,8 @@ Extract busiest hour of the day.
 Percentage caculation on each pizza type to total revenue.
 Extract cumulative revenue generated over time.
 Top 3 most ordered pizza types based on revenue for each pizza category.
+Find most common ingredient combinations.
+Find the most expensive orders and on which day.
+Find the daily revenue trends with their quantities.
+Basket analysis: Frequently ordered pizza pairs.
+Find the least popular pizzas.
